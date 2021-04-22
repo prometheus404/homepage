@@ -13,7 +13,6 @@ const bookmarks = [
     links: [
       { name: "Youtube", url: "https://youtube.com" },
       { name: "Netflix", url: "https://netflix.com" },
-      { name: "Crunchyroll", url: "https://crunchyroll.com" },
       {
         name: "Amazon Prime",
         url: "https://www.amazon.com/Amazon-Video",
@@ -23,25 +22,25 @@ const bookmarks = [
   {
     title: "Reddit",
     links: [
-      { name: "/r/overwatch", url: "https://reddit.com/r/overwatch" },
       {
-        name: "/r/pcmasterrace",
+        name: "/r/mechanicalkeyboards",
         url: "https://reddit.com/r/pcmasterrace",
       },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
       {
-        name: "/r/battlestations",
-        url: "https://reddit.com/r/battlestations",
+        name: "/r/dataisbeautiful",
+        url: "https://reddit.com/r/dataisbeautiful",
       },
       { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
       { name: "/r/news", url: "https://reddit.com/r/news" },
     ],
   },
   {
-    title: "Social",
+    title: "Uni",
     links: [
-      { name: "Twitter", url: "https://twitter.com" },
-      { name: "Facebook", url: "https://facebook.com" },
+      { name: "Ariel", url: "https://ariel.unimi.it/" },
+      { name: "Unimia", url: "http://unimia.unimi.it/" },
+      { name: "RO", url: "http://homes.di.unimi.it/righini/Didattica/RicercaOperativa/Materiale/MaterialeRO.htm" },
+      { name: "Statistica", url: "https://labonline.ctu.unimi.it/course/view.php?id=227"}
     ],
   },
 ];

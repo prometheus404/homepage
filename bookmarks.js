@@ -24,7 +24,7 @@ const bookmarks = [
     links: [
       {
         name: "/r/mechanicalkeyboards",
-        url: "https://reddit.com/r/pcmasterrace",
+        url: "https://reddit.com/r/mechanicalkeyboards",
       },
       {
         name: "/r/dataisbeautiful",
